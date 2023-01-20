@@ -1,2 +1,5 @@
 # asian-food-website
-Asian food website with HTML and CSS
+
+Simple Asian Food website using HTML and CSS
+
+<img src="website.gif" />
